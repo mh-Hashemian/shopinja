@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: "vazir";
-  src: url("./assets/fonts/Vazirmatn-Regular.ttf");
+  src: url("/fonts/Vazirmatn-Regular.ttf");
 }
 
 .container {
