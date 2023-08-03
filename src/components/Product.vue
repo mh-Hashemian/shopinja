@@ -1,6 +1,6 @@
 <template>
   <div
-    class="group relative flex max-w-sm flex-col rounded-lg border border-gray-200 bg-white shadow hover:shadow-2xl dark:border-gray-700 dark:bg-gray-800"
+    class="group relative mx-auto flex max-w-sm flex-col rounded-lg border border-gray-200 bg-white shadow hover:shadow-2xl dark:border-gray-700 dark:bg-gray-800"
   >
     <a class="overflow-hidden">
       <img

@@ -1,12 +1,14 @@
 <template>
-  <div class="container grid grid-cols-2 gap-2 lg:grid-cols-4">
+  <div class="container lg:flex">
     <Sidebar />
 
     <div
       v-if="filteredProducts.length > 0"
-      class="col-span-3 mx-auto grid grid-cols-1 gap-2 sm:grid-cols-2 md:grid-cols-3"
+      class="grid grid-cols-1 gap-2 sm:grid-cols-2 md:grid-cols-3"
     >
-      <div class="col-span-full flex items-center pt-2">
+      <div
+        class="col-span-full mx-auto flex max-w-sm items-center pt-2 sm:mx-0"
+      >
         <div class="flex items-center">
           <svg
             xmlns="http://www.w3.org/2000/svg"

@@ -1,5 +1,7 @@
 <template>
-  <div class="col-span-2 -ml-[6px] min-h-fit rounded-md lg:col-span-1">
+  <div
+    class="mx-auto min-h-fit max-w-sm rounded-md sm:max-w-full lg:ml-2 lg:w-96"
+  >
     <div class="relative">
       <Input placeholder="جستجو در محصولات" v-model="filters.title" />
       <svg
@@ -30,6 +32,7 @@
           size="sm"
           placeholder="جستجو بر اساس تگ"
           v-model="tagInput"
+          enterkeyhint="done"
           @keydown.enter.exact.stop.prevent="addToTags"
         />
         <ul class="mt-2 flex flex-wrap">

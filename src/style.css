@@ -8,7 +8,7 @@
 }
 
 .container {
-  @apply mx-auto max-w-6xl;
+  @apply mx-auto max-w-sm sm:max-w-6xl;
 }
 
 .toggle span {
