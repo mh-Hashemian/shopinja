@@ -4,7 +4,7 @@
     "title": "گوشی موبایل نوکیا",
     "description": "گوشی موبایل نوکیا مدل 105 - 2019 TA-1174 DS FA دو سیم کارت",
     "tags": ["موبایل", "کالای دیجیتال", "نوکیا"],
-    "image_src": "/src/assets/images/nokia.jpg",
+    "image_src": "/images/nokia.jpg",
     "price": 775000,
     "stock": 0
   },
@@ -13,7 +13,7 @@
     "title": "گوشی موبایل سامسونگ A13",
     "description": "گوشی موبایل سامسونگ مدل Galaxy A13 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت به همراه شارژر",
     "tags": ["موبایل", "کالای دیجیتال", "سامسونگ"],
-    "image_src": "/src/assets/images/samsung A13.jpg",
+    "image_src": "/images/samsung A13.jpg",
     "price": 5020000,
     "stock": 7
   },
@@ -22,7 +22,7 @@
     "title": "گوشی موبایل سامسونگ A34",
     "description": "گوشی موبایل سامسونگ مدل Galaxy A34 5G دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
     "tags": ["موبایل", "کالای دیجیتال", "سامسونگ"],
-    "image_src": "/src/assets/images/samsung A34.jpg",
+    "image_src": "/images/samsung A34.jpg",
     "price": 10150000,
     "stock": 3
   },
@@ -31,7 +31,7 @@
     "title": "کتاب هر دو در نهایت می میرند",
     "description": "اثر آدام سیلورا نشر آذرگون",
     "tags": ["کتاب"],
-    "image_src": "/src/assets/images/book1.jpg",
+    "image_src": "/images/book1.jpg",
     "price": 66000,
     "stock": 10
   },
@@ -40,7 +40,7 @@
     "title": "کتاب چگونه کمال گرا نباشیم",
     "description": "اثر استفان گایز نشر آذرگون",
     "tags": ["کتاب"],
-    "image_src": "/src/assets/images/book2.jpg",
+    "image_src": "/images/book2.jpg",
     "price": 58000,
     "stock": 7
   },
@@ -49,7 +49,7 @@
     "title": "لپ تاپ 15.6 اینچی ایسوس",
     "description": "مدل X515JP-EJ408-i7 16GB 1HDD 512SSD MX330 - کاستوم شده",
     "tags": ["کالای دیجیتال", "ایسوس", "لپ تاپ"],
-    "image_src": "/src/assets/images/asus.jpg",
+    "image_src": "/images/asus.jpg",
     "price": 13500000,
     "stock": 7
   },
@@ -58,7 +58,7 @@
     "title": "لپ تاپ 15.6 اینچی لنوو",
     "description": "مدل IdeaPad 3 15ITL6-i3 4GB 1HDD",
     "tags": ["کالای دیجیتال", "لنوو", "لپ تاپ"],
-    "image_src": "/src/assets/images/lenovo.jpg",
+    "image_src": "/images/lenovo.jpg",
     "price": 14020000,
     "stock": 2
   },
@@ -67,7 +67,7 @@
     "title": "لپ تاپ 14 اینچی ایسوس",
     "description": "مدل Vivobook E410MA-BV1517",
     "tags": ["کالای دیجیتال", "ایسوس", "لپ تاپ"],
-    "image_src": "/src/assets/images/asus2.jpg",
+    "image_src": "/images/asus2.jpg",
     "price": 9050000,
     "stock": 4
   },
@@ -76,7 +76,7 @@
     "title": "لپ تاپ 12.4 اینچی مایکروسافت",
     "description": "مدل Surface Laptop Go-i5 4GB 64SSD",
     "tags": ["کالای دیجیتال", "مایکروسافت", "لپ تاپ"],
-    "image_src": "/src/assets/images/microsoft.jpg",
+    "image_src": "/images/microsoft.jpg",
     "price": 21000000,
     "stock": 1
   }
