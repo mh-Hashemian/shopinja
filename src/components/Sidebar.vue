@@ -1,5 +1,5 @@
 <template>
-  <div class="col-span-2 min-h-fit rounded-md lg:col-span-1">
+  <div class="col-span-2 -ml-[6px] min-h-fit rounded-md lg:col-span-1">
     <div class="relative">
       <Input placeholder="جستجو در محصولات" v-model="filters.title" />
       <svg
