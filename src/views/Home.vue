@@ -59,7 +59,7 @@
     </div>
     <div
       v-else
-      class="col-span-3 flex h-full items-center justify-center border border-dashed border-gray-300 p-8 text-4xl text-gray-800"
+      class="h-90 flex w-full items-center justify-center border border-dashed border-gray-300 p-8 text-4xl text-gray-800"
     >
       کالایی یافت نشد!
     </div>

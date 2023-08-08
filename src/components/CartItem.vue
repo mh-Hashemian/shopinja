@@ -1,7 +1,5 @@
 <template>
-  <div
-    class="mb-1 flex cursor-pointer flex-col rounded-md border hover:shadow-md sm:flex-row"
-  >
+  <div class="mb-1 flex flex-col rounded-md border hover:shadow-md sm:flex-row">
     <img class="mx-auto w-40 py-2 sm:w-28" :src="item.image_src" />
     <div
       class="flex flex-grow flex-col items-center justify-between px-1 py-2 sm:flex-row"
